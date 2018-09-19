@@ -20,7 +20,7 @@ int main() {
 	scanf("%d", &n);
 	fprintf(f1, "%d\n", n);
 	fprintf(f1, "$\n");
-	int cnt = rand() % min(9996, n*n);
+	int cnt = rand() % min(10000, n*n);
 	if (cnt < 5)cnt += 5;
 	while (cnt != 0) {
 		int a = rand() % n + 1;
@@ -66,5 +66,4 @@ int main() {
 			fprintf(f1, "%c", calcu[a]);
 		}
 	}
-	a = rand() % 2;
 }
