@@ -15,7 +15,7 @@ FILE *f1;
 int main() {
 	int n;
 	srand(time(NULL));
-	f1 = fopen("input.txt", "w");
+	f1 = fopen("hw1_input.txt", "w");
 	printf("Enter the number: ");
 	scanf("%d", &n);
 	fprintf(f1, "%d\n", n);
@@ -67,5 +67,4 @@ int main() {
 		}
 	}
 	a = rand() % 2;
-	if (b != 4) { fprintf(f1, "%c", calcu[a]); };
 }
