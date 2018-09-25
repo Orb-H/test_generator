@@ -1,4 +1,4 @@
-- input1.txt: 5.746(Orb_H)
+- input1.txt: 5.746s(Orb_H)
   - n: 1000
   - t: 1000
   - m: 300
