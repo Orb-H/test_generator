@@ -1,4 +1,25 @@
-- input1.txt: 5.746s(Orb_H)
+- input1.txt: 5.746s (Orb_H)
   - n: 1000
   - t: 1000
   - m: 300
+
+- input2.txt: 2.542s (Orb_H)
+  - n: 100
+  - t: 1000
+  - m: 500
+
+- input3.txt: 23.773s (Orb_H)
+  - n: 500
+  - t: 5000
+  - m: 100
+
+- input4.txt: 0.045s (Orb_H)
+  - n: 100
+  - t: 100
+  - m: 100
+
+- input5.txt(Maximum input): 798.673s (Orb_H)
+  - n: 1000
+  - t: 10000
+  - m: 500
+  - Output: 4.89GB txt file
