@@ -23,3 +23,18 @@
   - t: 10000
   - m: 500
   - Output: 4.89GB txt file
+
+- input6.txt: 0.016s (Orb_H)
+  - n: 100
+  - t: 100
+  - m: 10
+
+- input7.txt: 64.463s (Orb_H)
+  - n: 500
+  - t: 5000
+  - m: 250
+
+- input8.txt: 0.837s (Orb_H)
+  - n: 1000
+  - t: 100
+  - m: 500
