@@ -1,3 +1,5 @@
+**Don't judge your answer with just file size! File format might be different from me and you!**
+
 - input1.txt (3.81MB)
   - n: 1000
   - t: 1000
@@ -60,3 +62,19 @@
   - m: 500
   - --**TIMES**--
   - Orb_H: 18.027s
+
+- input10.txt (991B)
+  - Just for testing
+  - output: output10.txt (53B)
+
+- input11.txt (3.79KB)
+  - Just for testing
+  - output: output11.txt (16.5KB)
+
+- input12.txt (3.82MB)
+  - Just for testing
+  - output: output12.txt (19.2MB)
+
+- input13.txt (39.5KB)
+  - Just for testing
+  - output: output13.txt (4.14KB)
