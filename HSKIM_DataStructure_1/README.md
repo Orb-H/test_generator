@@ -1,5 +1,7 @@
 # HSKIM_DATASTRUCTURE Assignment 1 (2018-2)
 
+#### Generator made by mindstorm
+
 **Don't judge your answer with just file size! File format might be different each other!**
 
 - input1.txt (3.81MB)
@@ -85,3 +87,8 @@
 - input13.txt (39.5KB)
   - Just for testing
   - output: output13.txt (4.14KB)
+
+- input14.txt (518B)
+  - Just for testing
+  - mindstorm said this is the input which can cause the most errors except memory overflow
+  - output: output14.txt (1.37KB)
