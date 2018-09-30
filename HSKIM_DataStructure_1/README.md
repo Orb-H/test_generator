@@ -4,6 +4,7 @@
   - n: 1000
   - t: 1000
   - m: 300
+  - output: output1.txt (45.1MB)
   - --**TIMES**--
   - Orb_H: 5.746s
 
@@ -11,6 +12,7 @@
   - n: 100
   - t: 1000
   - m: 500
+  - output: output2.txt (52.0MB)
   - --**TIMES**--
   - Orb_H: 2.542s
 
@@ -25,6 +27,7 @@
   - n: 100
   - t: 100
   - m: 100
+  - output: output4.txt (489KB)
   - --**TIMES**--
   - Orb_H: 0.045s
 
@@ -39,6 +42,7 @@
   - n: 100
   - t: 100
   - m: 10
+  - output: output6.txt (39.5KB)
   - --**TIMES**--
   - Orb_H: 0.016s
 
@@ -53,6 +57,7 @@
   - n: 1000
   - t: 100
   - m: 500
+  - output: output8.txt (466KB)
   - --**TIMES**--
   - Orb_H: 0.837s
 
