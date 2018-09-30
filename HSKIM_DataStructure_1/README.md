@@ -1,4 +1,4 @@
-**Don't judge your answer with just file size! File format might be different from me and you!**
+**Don't judge your answer with just file size! File format might be different each other!**
 
 - input1.txt (3.81MB)
   - n: 1000
