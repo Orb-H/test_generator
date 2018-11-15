@@ -10,3 +10,9 @@
   - m: 4
   - Output: output1.txt (50B)
   - Default input/output
+
+- input2.txt (48B)
+  - n: 5
+  - m: 5
+  - Output: output2.txt (57B)
+  - Disordered edge test
