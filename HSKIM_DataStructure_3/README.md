@@ -16,3 +16,20 @@
   - m: 5
   - Output: output2.txt (57B)
   - Disordered edge test
+
+- input3.txt (19.3KB)
+  - n: 1000
+  - m: 1000
+  - Output: output3.txt (19.3KB)
+
+- input4.txt (9.73KB)
+  - n: 10
+  - m: 1000
+  - Output: output4.txt (9.74KB)
+  - Merging two different-sized tree
+
+- input5.txt (9.74KB)
+  - n: 1000
+  - m: 10
+  - Output: output5.txt (9.75KB)
+  - Merging two different-sized tree
